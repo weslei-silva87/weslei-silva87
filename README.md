@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou Weslei Moura</h1>
+<h1 align="center">Olá 👋, Eu sou Weslei</h1>
 <h3 align="center">Apaixonado por transformar dados em informações para o Negócios</h3>
 
 - 🔭 Atualmente estou trabalhando com analise e visualização de dados **Lider der Projeto - Scrum Master (student)**
