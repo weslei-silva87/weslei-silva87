@@ -5,8 +5,6 @@
 
 - 🌱Atualmente estou cursando **Pós graduação em Ciências de Dados**
 
-- 👯 também estou compartilhando meus projetos [Meu portefólio](https://meuportifolio92.webnode.page/)
-
 - 💬 me pergunte sobre ? **Python, SQL, Excel, Power Bi**
 
 - 📫você me acha através do e-mail **weslei.moura.silva87@gmail.com**
